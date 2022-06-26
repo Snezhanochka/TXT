@@ -1,0 +1,7 @@
+Surname: Grigoruk
+Name: Snezhana
+Pathronymic: Yurevna
+Age: 29
+Pet: have no pets
+Future_salary: 1000
+
