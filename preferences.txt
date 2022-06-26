@@ -1,0 +1,6 @@
+favorite_film: Harry_Potter
+favorite_serial: Sherlock_Holmes
+favorite_food: sushi
+favorite_season: summer
+favorite_country: Poland
+

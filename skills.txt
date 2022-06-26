@@ -1,0 +1,8 @@
+sql: mysql
+API: Postman
+iOS: XCode
+Android: Android_Studio
+Sniffing: Charles
+terminal: git_bush
+
+
