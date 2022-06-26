@@ -1,1 +1,7 @@
+Bug_report
+	
+	  Title -- The item doesn't add to the cart
+	  STR -- Open the catalog, choose any item, click 'Add to the cart' button
+	  Environment -- Windows 10 Pro, Google Chrome 98.0.4758.102
+	  Severity -- Blocker
 
